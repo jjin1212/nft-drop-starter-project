@@ -1,0 +1,19 @@
+{
+    "name": "Big Mom",
+    "symbol": "BM",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5A5xXz8vm3N6XU98wdHdp5BDWHBBWB7XiXGH2rhTuGiy",
+          "share": 100
+        }
+      ]
+    }
+}
